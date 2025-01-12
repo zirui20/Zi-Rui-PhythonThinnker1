@@ -120,4 +120,4 @@ print ("I attend Acs(Barker Road)")
 print ("If i had $2000, i will buy a Mac book")
 print ("i wake up")
 print("I go to the toilet")
-print
+print("I ")
