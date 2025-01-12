@@ -124,4 +124,11 @@
 # print ("I take a shower")
 # print ("I dress up in school uniform")
 # print("I then leave for school")
+# print(Hello and how are you?)
+
+# print("What is wrong with this"
+
+# print("Why is this not working?)
+
+# Prnt("Why is this not working?")
 
