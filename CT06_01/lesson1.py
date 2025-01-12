@@ -121,4 +121,4 @@
 print ("i wake up")
 print("I go to the toilet")
 print("I brush my teeth")
-print ("")
+print ("I take a shower")
