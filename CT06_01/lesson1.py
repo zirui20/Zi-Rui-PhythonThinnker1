@@ -118,4 +118,4 @@ print("My name is Zi Rui.")
 print("I am 12 years old")
 print ("I attend Acs(Barker Road)")
 print ("If i had $2000, i will buy a Mac book")
-print
+print 
