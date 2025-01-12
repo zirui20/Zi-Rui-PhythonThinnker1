@@ -115,4 +115,5 @@
 # print("My favourite food is Beef Noodles")
 # print("My birthday is on 18 October 2012")
 print("My name is Zi Rui.")
-print("")
+print("I am 12 years old")
+print 
