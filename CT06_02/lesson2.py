@@ -31,3 +31,4 @@ test1 = int(test1) #converion
 
 # 0.2 multiply by the given test1 score
 # 0.4 multiply by the given test2 score
+# 0.4 multiply by the given test2 score
