@@ -20,7 +20,7 @@ print("Violet")
 # move 10 steps
 # turn 15 degrees
 # increase "counter" by 10
-# (say how old are you )
+# input (say how old are you )
 # (wait 5 seconds) 
 # (if answer is under 18 print ("Access Denied"))
-# (if answer is above 18 print ("Access Granted")))
+# (if answer is above 18 print ("Access Granted"))
