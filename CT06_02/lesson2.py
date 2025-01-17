@@ -29,4 +29,4 @@ print("Violet")
 # if items material is paper, put into paper bin
 # check if secret code is correct
 # If it is, hello
-# say"
+# say"Good"
