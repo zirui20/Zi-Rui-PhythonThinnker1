@@ -21,6 +21,6 @@ print("Hello from lesson 2")
 # say "Final score is 100 percent"
 
 
-#  t
+#  get student's 
 test1 = input("what is your test1 score?")
 test1 = int(test1)
