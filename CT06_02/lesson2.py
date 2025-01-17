@@ -16,4 +16,5 @@ print("Violet")
 #  say "Hey!"
 #  move 10 steps
 # assign 0 to counter
-# while "counter"
+# while "counter" is not 50:
+# 
