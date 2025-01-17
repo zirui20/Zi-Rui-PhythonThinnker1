@@ -30,3 +30,5 @@ test3 = int(test3) #converion
 # print the final score
 final_score = 0.2 * test1 + 0.4 * test2 +0.4 * test3
 print("Your final score is", final_score)
+
+
