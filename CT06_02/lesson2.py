@@ -15,4 +15,4 @@ print("Hello from lesson 2")
 # Ask for test score
 # Student say "20 percent, 40 percent and 40 percent"
 # Calculate all the test score together
-# 
+# say ""
