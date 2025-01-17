@@ -21,4 +21,4 @@ print("Violet")
 # turn 15 degrees
 # increase "counter" by 10
 # say how old are you 
-# wait 
+# wait 5 seconds 
