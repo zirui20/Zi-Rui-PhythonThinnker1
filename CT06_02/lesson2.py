@@ -19,5 +19,8 @@ print("Hello from lesson 2")
 # Student say "20 percent, 40 percent and 40 percent" # type: ignore
 # Calculate all the test score together
 # say "Final score is 100 percent"
+
+
+#  t
 test1 = input("what is your test1 score?")
 test1 = int(test1)
