@@ -31,4 +31,4 @@ print("Violet")
 # If it is, hello
 # say"Good"
 # Otherwise
-# say
+# say"Denied
