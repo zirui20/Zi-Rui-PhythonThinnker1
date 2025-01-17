@@ -28,4 +28,4 @@ print("Violet")
 # if item"s material is glass, put into glass bin
 # if items material is paper, put into paper bin
 # check if secret code is correct
-# 
+# If it is
