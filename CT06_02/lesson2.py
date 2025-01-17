@@ -35,3 +35,4 @@ print("Your final score is", final_score)
 # save the input value into a variable named "num1"
 # save another input value into a variable named "num2"
 # add the 2 numbers together
+# print the final result
