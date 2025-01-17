@@ -29,7 +29,7 @@ test2 = input("what is your test2 score?")
 test2 = int(test2) #converion
 #  get student's test3 score
 test3 = input("what is your test3 score?")
-test3 = int(test1) #converion
+test3 = int(test3) #converion
 
 
 # get studemt's test 2 score
