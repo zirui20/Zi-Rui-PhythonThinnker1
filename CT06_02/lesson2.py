@@ -40,4 +40,4 @@ test3 = int(test3) #converion
 # 0.4 multiply by the given test3 score
 # adds up these 3 numbers into a new variable named "final score"
 # print the final score
-final_score = 0.2*test1 + 0.4 * test2 + 0
+final_score = 0.2*test1 + 0.4 * test2 +0.4 + 0
