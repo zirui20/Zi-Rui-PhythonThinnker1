@@ -15,4 +15,5 @@ print("Violet")
 # repeat 10 times:
 #  say "Hey!"
 #  move 10 steps
-# assign 
+# assign 0 to counter
+
