@@ -12,4 +12,5 @@ print("Hello from lesson 2")
 # Otherwise
 # say"Denied"
 
-# Ask  
+# Ask student for test score
+# if  
