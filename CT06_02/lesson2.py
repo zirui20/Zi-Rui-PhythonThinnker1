@@ -9,6 +9,15 @@ print("Hello from lesson 2")
 ######## Write the pseudocode in comments for task 3 here
 # Using comments, translate the code shown on screen into pseudocode.
 
+# save the input value into a variable named "num1"
+# save another input value into a variable named "num2"
+# add the 2 numbers together
+# print the final result
+num1 = input("Give me a number? ")
+num2 = input("Give me the next number? ")
+ans= num1 + num2
+print(ans)
+
 #  get student's test1 score
 test1 = input("what is your test1 score? ")
 test1 = int(test1) #converion
