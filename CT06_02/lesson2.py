@@ -13,5 +13,5 @@ print("Blue")
 print("indigo")
 print("Violet")
 # repeat 10 times:
-#  say "Hey!"
-#move 10 
+# say "Hey!"
+#move 10 steps
