@@ -16,6 +16,6 @@ print("Hello from lesson 2")
 # say"Denied"
 
 # ask for test score 
-# Student say "20 percent, 40 percent and 40 percent"
+# Student say "20 percent, 40 percent and 40 percent" # type: ignore
 # Calculate all the test score together
 # say "Final score is 100 percent"
