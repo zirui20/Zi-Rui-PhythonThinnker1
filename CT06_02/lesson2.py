@@ -45,7 +45,7 @@ print("Your final score is", final_score)
 # save another input value into a variable named "num2"
 # add the 2 numbers together
 # print the final result
-num1 = input("Give me a number? ")
+num1 = int()
 num2 = input("Give me the next number? ")
 ans= num1 + num2
 print(ans)
