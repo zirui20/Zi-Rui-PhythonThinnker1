@@ -26,3 +26,4 @@ print("Violet")
 # look at the material of the item
 # if item's material is plastic, put into the plastic bin)
 # if item"s material is glass, put into glass bin)
+# if items material is paper
