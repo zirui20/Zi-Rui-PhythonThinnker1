@@ -25,6 +25,7 @@ print("Hello from lesson 2")
 test1 = input("what is your test1 score?")
 test1 = int(test1) #converion
 
-# get student's test 1 score 
+
 # get studemt's test 2 score
 # get student's test 3 score
+
