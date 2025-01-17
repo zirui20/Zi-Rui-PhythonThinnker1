@@ -32,3 +32,4 @@ final_score = 0.2 * test1 + 0.4 * test2 +0.4 * test3
 print("Your final score is", final_score)
 
 
+# save the input value 
