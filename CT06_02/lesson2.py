@@ -13,10 +13,10 @@ print("Hello from lesson 2")
 # save another input value into a variable named "num2"
 # add the 2 numbers together
 # print the final result
-num1 = input("Give me a number? ")
-num2 = input("Give me the next number? ")
-ans= num1 + num2
-print(ans)
+# num1 = input("Give me a number? ")
+# num2 = input("Give me the next number? ")
+# ans= num1 + num2
+# print(ans)
 
 #  get student's test1 score
 test1 = input("what is your test1 score? ")
