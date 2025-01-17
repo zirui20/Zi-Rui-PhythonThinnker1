@@ -23,4 +23,5 @@ print("Hello from lesson 2")
 
 #  get student's test1 score
 test1 = input("what is your test1 score?")
-test1 = int(test1)#
+test1 = int(test1) #converion
+
