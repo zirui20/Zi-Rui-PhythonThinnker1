@@ -19,4 +19,4 @@ print("Violet")
 # while "counter" is not 50:
 # move 10 steps
 # turn 15 degrees
-# increase "counter"
+# increase "counter" by 10
