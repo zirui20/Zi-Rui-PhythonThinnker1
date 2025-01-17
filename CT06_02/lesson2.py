@@ -23,6 +23,6 @@ print("Violet")
 #(say how old are you )
 # (wait 5 seconds) 
 # (if answer is under 18 print ("Access Denied")
-# (look at the material of the item
-# (if item's material is plastic, put into the plastic bin)
-# (if item"s material is glass, put into glass bin)
+# look at the material of the item
+# if item's material is plastic, put into the plastic bin)
+# if item"s material is glass, put into glass bin)
