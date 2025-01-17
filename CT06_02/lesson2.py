@@ -13,4 +13,4 @@ print("Hello from lesson 2")
 # say"Denied"
 
 # Ask student for test score
-# Student say "20 percent, 4
+# Student say "20 percent, 40 percent and 40 percent"
