@@ -1,3 +1,6 @@
+from sympy import ask
+
+
 print("Hello from lesson 2")
 
 ######## Write the pseudocode in comments for task 2 here
@@ -12,7 +15,7 @@ print("Hello from lesson 2")
 # Otherwise
 # say"Denied"
 
-# Ask for test score
+# ask for test score 
 # Student say "20 percent, 40 percent and 40 percent"
 # Calculate all the test score together
 # say "Final score is 100 percent"
