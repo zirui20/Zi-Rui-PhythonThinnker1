@@ -1,4 +1,4 @@
-print("Hello from lesson 2")
+# print("Hello from lesson 2")
 
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
@@ -7,8 +7,8 @@ print("Hello from lesson 2")
 # Using comments, translate the code shown on screen into pseudocode.
 print("red")
 print("Orange")
+print("reen")
 print("Yellow")
-print("Green")
-print("Blue")
+print("Gue")
 print("indigo")
 print("Violet")
