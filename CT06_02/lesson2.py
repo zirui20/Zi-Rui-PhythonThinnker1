@@ -23,4 +23,4 @@ print("Violet")
 # say how old are you 
 # wait 5 seconds 
 # if answer is under 18 print ("Access Denied")
-# if answer is above 18 print ("Access ")
+# if answer is above 18 print ("Access Granted")
