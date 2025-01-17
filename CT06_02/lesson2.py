@@ -48,5 +48,6 @@ print("Your final score is", final_score)
 num1 = input ("Give me a number? ") 
 num1 = int(num1)
 num2 = input("Give me the next number? ") # conversion
+num2 = int(num2)
 ans= num1 + num2 # conversion
 print(ans)
