@@ -8,7 +8,7 @@
 print("red")
 print("Orange")
 print("Yellow")
-print("Yellow")
+print("Green")
 print("Gue")
 print("indigo")
 print("Violet")
