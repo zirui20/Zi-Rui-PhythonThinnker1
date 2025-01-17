@@ -12,4 +12,4 @@ print("Green")
 print("Blue")
 print("indigo")
 print("Violet")
-# repeat 
+# repeat 10 times:
