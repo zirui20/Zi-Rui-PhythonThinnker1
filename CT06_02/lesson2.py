@@ -39,5 +39,4 @@ print("Your final score is", final_score)
 num1 = input("Give me a number? ")
 num2 = input("Give me the next number? ")
 ans= num1 + num2
-
-
+print(ans)
