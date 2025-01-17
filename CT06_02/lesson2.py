@@ -27,4 +27,5 @@ print("Violet")
 # if item's material is plastic, put into the plastic bin
 # if item"s material is glass, put into glass bin
 # if items material is paper, put into paper bin
-# check if secret 
+# check if secret code is correct
+# For 
