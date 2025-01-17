@@ -30,3 +30,5 @@ print("Violet")
 # check if secret code is correct
 # If it is, hello
 # say"Good"
+# Otherwise
+# say
