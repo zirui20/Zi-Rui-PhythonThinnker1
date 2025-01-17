@@ -41,4 +41,4 @@ test3 = int(test3) #converion
 # adds up these 3 numbers into a new variable named "final score"
 # print the final score
 final_score = 0.2*test1 + 0.4 * test2 +0.4 * test3
-print("")
+print("Your final score is")
