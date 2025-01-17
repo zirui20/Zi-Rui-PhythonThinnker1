@@ -27,4 +27,4 @@ test1 = int(test1) #converion
 
 # get student's test 1 score 
 # get studemt's test 2 score
-
+# get student's test 3 score
