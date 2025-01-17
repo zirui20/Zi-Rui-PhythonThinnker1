@@ -29,3 +29,4 @@ test1 = int(test1) #converion
 # get studemt's test 2 score
 # get student's test 3 score
 
+# 0.2 multiply by the given test1 score
