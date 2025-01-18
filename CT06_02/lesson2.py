@@ -47,7 +47,7 @@ print("Hello from lesson 2")
 # print the final result
 num1 = input ("What did you get on your test? ") 
 num1 = int(num1)
-num2 = input("How many did you eat yesterday ") # conversion
+num2 = input("On your  ") # conversion
 num2 = int(num2)
 ans= num1 + num2 # conversion
 print(ans)
