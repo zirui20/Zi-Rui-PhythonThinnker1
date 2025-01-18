@@ -45,7 +45,7 @@ print("Hello from lesson 2")
 # save another input value into a variable named "num2"
 # add the 2 numbers together
 # print the final result
-num1 = input ("How many dogs did you eat today? ") 
+num1 = input ("What did you get on your test? ") 
 num1 = int(num1)
 num2 = input("How many did you eat yesterday ") # conversion
 num2 = int(num2)
