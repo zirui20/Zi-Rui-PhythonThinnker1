@@ -7,4 +7,4 @@ print (total)
 
 
 
-print("")
+print("You have spent a total of $")
