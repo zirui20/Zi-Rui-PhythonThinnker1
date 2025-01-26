@@ -134,6 +134,3 @@ print("Why is this not working?")
 print("Why is this not working?") 
 
 
-
-print ("sigma sigma boi")
-
