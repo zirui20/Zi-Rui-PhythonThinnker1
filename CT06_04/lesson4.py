@@ -7,4 +7,4 @@ print (total)
 
 
 
-print("You have spent a total of $"+ str(total))
+print("You have spent a total of $" + str(total))
