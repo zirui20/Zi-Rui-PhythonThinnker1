@@ -22,4 +22,4 @@
 #     print(i+1)
 
 
-Startingnumber = input("")
+Startingnumber = input("What is your starting number?")
