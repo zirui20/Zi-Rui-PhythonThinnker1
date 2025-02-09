@@ -31,3 +31,5 @@
 
 
 num = int(input("What number to add until?"))
+
+sum = 0
