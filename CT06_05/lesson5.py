@@ -9,7 +9,9 @@
 # for i in range(100):
 #     print("I like Chicken Rice" )
 
-for i in range(100):
-    print("I like cakes")
-    print("Give me more")
+# for i in range(100):
+#     print("I like cakes")
+#     print("Give me more")
+
+
 
