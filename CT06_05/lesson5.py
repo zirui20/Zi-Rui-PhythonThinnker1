@@ -30,4 +30,4 @@
 
 
 
-num = int
+num = int(input("What number to add until?"))
