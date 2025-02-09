@@ -19,4 +19,4 @@ for i in range(5):
     
 
 for i in range(51,100):
-    print(i)
+    print(i+1)
