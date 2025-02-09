@@ -18,5 +18,5 @@ for i in range(5):
     print(i+1)
     
 
-for i in range():
-    print()
+for i in range(51,100):
+    print(i)
