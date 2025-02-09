@@ -35,4 +35,4 @@ num = int(input("What number to add until?"))
 sum = 0 
 
 for i in range(num+1):
-    sum =
+    sum = sum + i
