@@ -22,5 +22,5 @@
 #     print(i+1)
 
 
-Startingnumber = input("What is your starting number?")
-Stopnumber = input("What is your stop number")
+Start= input("What is your starting number?")
+End = input("What is your stop number")
