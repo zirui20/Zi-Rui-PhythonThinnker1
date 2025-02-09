@@ -7,4 +7,4 @@
 
 
 for i in range(100):
-    print()
+    print("I like Chicken Rice" )
