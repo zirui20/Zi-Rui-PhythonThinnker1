@@ -30,4 +30,4 @@
 
 
 
-num=int("0")
+num=num
