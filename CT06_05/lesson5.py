@@ -1,2 +1,2 @@
 # print("Hello from lesson)
-Name
+Name = i
