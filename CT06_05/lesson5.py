@@ -18,8 +18,8 @@
 #     print(i+1)
     
 
-for i in range(50,100):
-    print(i+1)
+# for i in range(50,100):
+#     print(i+1)
 
-for i in range(5):
-    print(i+1)
+for i in range(5,1):
+    print(i)
