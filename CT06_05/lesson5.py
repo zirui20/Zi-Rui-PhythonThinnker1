@@ -22,4 +22,4 @@
 #     print(i+1)
 
 
-input()
+Startingnumber = int()
