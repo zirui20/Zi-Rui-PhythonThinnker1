@@ -21,4 +21,5 @@
 # for i in range(50,100):
 #     print(i+1)
 
-
+for i in range(2,0,24):
+    print(i)
