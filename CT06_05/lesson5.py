@@ -10,5 +10,6 @@
 #     print("I like Chicken Rice" )
 
 for i in range(100):
-    print("I like cakes,Give me more")
+    print("I like cakes")
+    print("Give me more")
 
