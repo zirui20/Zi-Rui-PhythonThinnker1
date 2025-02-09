@@ -22,4 +22,4 @@
 #     print(i+1)
 
 
-int("Starting number")
+i
