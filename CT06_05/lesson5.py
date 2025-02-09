@@ -26,4 +26,4 @@ Start= input("What is your starting number? ")
 End = input("What is your stop number? ")
 
 for i in range( Start,End+1):
-    print()
+    print(i)
