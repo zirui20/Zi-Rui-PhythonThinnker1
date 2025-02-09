@@ -23,4 +23,4 @@
 
 
 Startingnumber = input("What is your starting number?")
-Stopnumber = input("")
+Stopnumber = input("What is your stop number")
