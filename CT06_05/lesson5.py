@@ -30,4 +30,4 @@
 
 
 
-num= inter
+num= int("0")
