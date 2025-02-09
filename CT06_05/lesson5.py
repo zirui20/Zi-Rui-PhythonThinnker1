@@ -1,3 +1,3 @@
 # print("Hello from lesson 5)
 
-input(What)
+input(When is your birthday)
