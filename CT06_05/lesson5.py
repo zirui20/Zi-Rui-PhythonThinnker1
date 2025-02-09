@@ -10,5 +10,5 @@
 #     print("I like Chicken Rice" )
 
 for i in range(100):
-    print()
+    print("I like cakes")
 
