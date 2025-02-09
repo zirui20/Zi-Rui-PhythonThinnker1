@@ -22,4 +22,4 @@
 #     print(i+1)
 
 
-Startingnumber = int()
+Startingnumber = input("")
