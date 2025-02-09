@@ -30,4 +30,4 @@
 
 
 
-num= num+1 
+num = int
