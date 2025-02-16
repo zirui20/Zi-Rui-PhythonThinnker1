@@ -20,11 +20,9 @@
 # for i in range(5):
 #     print(i)
 
-
-
-print("age")
-name = "Alice"
-print(name)
+# print("age")
+# name = "Alice"
+# print(name)
  
 age = 25
 print(age + 1)
