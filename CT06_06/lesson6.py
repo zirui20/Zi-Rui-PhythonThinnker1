@@ -9,5 +9,5 @@
 
 # print("The average score is: " + str(TotScore/Score))
 
-for i in range(3):
+for i in range(314567):
     print("Hello, World!")
