@@ -27,5 +27,5 @@ print("age")
 name = "Alice"
 print(name)
  
-
-
+age = "25"
+print(age + 1)
