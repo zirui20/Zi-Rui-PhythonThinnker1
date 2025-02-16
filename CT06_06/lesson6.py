@@ -27,6 +27,5 @@ print("age")
 name = "Alice"
 print(name)
 
-print(int(x))
 x = 5
 
