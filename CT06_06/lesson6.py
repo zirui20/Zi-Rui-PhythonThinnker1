@@ -24,5 +24,8 @@
 
 print("age")
 
+name = "Alice"
+print(name)
+
 
 
