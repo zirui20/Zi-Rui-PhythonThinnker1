@@ -23,7 +23,6 @@
 
 
 print("age")
-
 name = "Alice"
 print(name)
  
@@ -32,3 +31,4 @@ print(age + 1)
 
 number = 10
 print(number - 5)
+
