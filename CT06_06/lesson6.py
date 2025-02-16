@@ -5,3 +5,5 @@ TotScore = 0
 for i in range(Students):
     Score = int(input("What did this student get?"))
     TotScore = TotScore + Score
+
+    print("The ave")
