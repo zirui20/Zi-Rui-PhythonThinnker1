@@ -1,4 +1,4 @@
-print("Hello")
+# print("Hello")
 
 Students = int(input("How many students are there in the class? "))
 TotScore = 0
