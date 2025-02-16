@@ -1,6 +1,7 @@
 print("Hello from lesson 6")
 
 Students = int(input("How many students are there in the class?"))
-Score = 0
+TotScore = 0
 for i in range(Students):
-    TotS = int(input("What did this student get?"))
+    Score = int(input("What did this student get?"))
+    
