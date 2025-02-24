@@ -9,6 +9,6 @@ Start= input("What is your starting number? ")
 
 
 
-num = int(input("What number to add until?"))
+num = int(input("What number to add until? "))
 
 sum = 0 
