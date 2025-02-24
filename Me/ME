@@ -1,20 +1,3 @@
 # print("Hello")
 
 
-Start= input("What is your starting number? ")
-# End = input("What is your stop number? ")
-
-# for i in range( Start, End+1):
-#     print(i)
-
-
-
-num = int(input("What number to add until? "))
-
-sum = 0 
-
-for i in range(num+1):
-    sum = sum + i
-    print(i)
-
-    print(sum)
