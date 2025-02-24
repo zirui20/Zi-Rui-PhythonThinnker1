@@ -1,5 +1,14 @@
 # print("Hello")
 
 
-if i in range()
+Start= input("What is your starting number? ")
+# End = input("What is your stop number? ")
 
+# for i in range( Start, End+1):
+#     print(i)
+
+
+
+num = int(input("What number to add until?"))
+
+sum = 0 
