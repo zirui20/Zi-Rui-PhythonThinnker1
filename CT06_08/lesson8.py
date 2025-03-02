@@ -23,12 +23,12 @@
 
 # print(random.randint(1, 6))
 
-import random 
+# import random 
 
-for i in range("1, 20"):
-    print("num")
+# for i in range("1, 20"):
+#     print("num")
 
-num = print(random.randint(1, 9999))
+# num = print(random.randint(1, 9999))
 
   
     
