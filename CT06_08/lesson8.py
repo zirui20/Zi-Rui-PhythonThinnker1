@@ -21,7 +21,7 @@
 
 import random 
 
-ran
+random.randint()
     
 
 
