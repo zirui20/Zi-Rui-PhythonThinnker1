@@ -40,3 +40,4 @@ num = int(input("What number do you want to know? "))
 
 for i in range(1, 13):
     print(str(num) + " x " + str(i) + " = " + str(num * i))
+
