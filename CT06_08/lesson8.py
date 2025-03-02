@@ -3,6 +3,6 @@
 for i in range(5):
     num =input("What is the number? ")
 
-total = num 
+total = num * num  
 
 
