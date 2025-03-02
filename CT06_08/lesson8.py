@@ -10,14 +10,16 @@
 
 # print("The product of the 5 numbers is " + str(ans))
 
-import time 
+# import time 
 
-for i in range(10, 0, -1):
-      print(i)
-      time.sleep(1)
+# for i in range(10, 0, -1):
+#       print(i)
+#       time.sleep(1)
 
-print("Liftoff!")
+# print("Liftoff!")
    
+
+
     
 
 
