@@ -10,7 +10,10 @@
 
 # print("The product of the 5 numbers is " + str(ans))
 
+import time 
 
+for i in range(1, 10, 1):
+    time 
 
 
 
