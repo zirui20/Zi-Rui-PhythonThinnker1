@@ -26,7 +26,7 @@
 import random 
 
 for i in range("1, 20"):
-    print(num)
+    print("num")
 
 num = print(random.randint(1, 9999))
 
