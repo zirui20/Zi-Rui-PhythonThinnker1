@@ -1,5 +1,5 @@
 # # print("Hello")
-print("Are you s")
+print("Are you sure you wanna guess? ")
 
 import random
 
