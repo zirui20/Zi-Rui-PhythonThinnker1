@@ -1,6 +1,6 @@
 # # print("Hello")
 input("Are you sure you wanna guess? ")
-input("ok then, guess ")
+num = input("ok then, guess ")
 
 import random
 
@@ -20,3 +20,5 @@ print("3rd number is: " + str(v3))
 print("All the numbers are odd/even: " + str(all_isSame))
 
 
+if num == True/False:
+    print("Good job")
