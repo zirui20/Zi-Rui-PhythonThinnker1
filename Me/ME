@@ -1,5 +1,6 @@
 # # print("Hello")
-print("Are you sure you wanna guess? ")
+input("Are you sure you wanna guess? ")
+
 
 import random
 
