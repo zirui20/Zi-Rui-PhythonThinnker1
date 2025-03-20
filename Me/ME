@@ -1,6 +1,6 @@
 # # print("Hello")
 input("Are you sure you wanna guess? ")
-
+input("ok then, guess ")
 
 import random
 
