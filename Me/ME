@@ -18,9 +18,3 @@ print("1st number is: " + str(v1))
 print("2nd number is: " + str(v2))
 print("3rd number is: " + str(v3))
 print("All the numbers are odd/even: " + str(all_isSame))
-
-
-if num == True/False:
-    print("Good job")
-else:
-    print("NOOOO")
