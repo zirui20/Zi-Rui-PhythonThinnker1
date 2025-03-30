@@ -32,4 +32,4 @@
 colour = input("Give me a colour ")
 
 if not colour == green:
-    print("")
+    print("Try again")
