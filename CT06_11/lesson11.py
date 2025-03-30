@@ -31,7 +31,7 @@
 
 colour = input("Give me a colour ")
 
-if not colour == "Green":
+if not colour == "Green" or "green":
     print("Try again")
 else:
     print("Yessir👍")
