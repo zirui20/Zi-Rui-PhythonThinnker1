@@ -30,3 +30,6 @@
 #     print("Ticket price is $20 👎")
 
 colour = input("Give me a colour ")
+
+if not colour == green:
+    print("")
