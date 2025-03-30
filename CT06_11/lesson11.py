@@ -29,4 +29,4 @@
 # else:
 #     print("Ticket price is $20 👎")
 
-colour = 
+colour = input("Give me a colour")
