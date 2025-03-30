@@ -9,4 +9,4 @@ elif px <= 50:
 elif px <= 500:
     print("DID YOU STEAL THIS MONEY?")
 elif px > 500:
-    print()
+    print("AR")
