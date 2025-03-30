@@ -12,4 +12,4 @@
 #     print("😭🙏 What?")
 
 
-num = input
+num = input("Can you gimme a number")
