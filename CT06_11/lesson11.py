@@ -1,3 +1,6 @@
 print("Hello from lesson 11")
 
-px = input("")
+px = input("What is the price of your item? ")
+
+if px <= 5:
+    print("")
