@@ -12,3 +12,4 @@
 #     print("😭🙏 What?")
 
 
+num = input
