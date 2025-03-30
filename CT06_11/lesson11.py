@@ -34,4 +34,4 @@ colour = input("Give me a colour ")
 if not colour == "Green":
     print("Try again")
 else:
-    print("Yes")
+    print("Yessir👍")
