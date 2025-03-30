@@ -12,7 +12,7 @@
 #     print("😭🙏 What?")
 
 
-num = input("Can you gimme a number? ")
+num = int(input("Can you gimme a number? "))
 
 if num%3 == 0:
     print("The number is divisible by 3 and 7")
