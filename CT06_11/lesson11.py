@@ -5,4 +5,4 @@ px = input("What is the price of your item? ")
 if px <= 5:
     print("Sounds good!")
 elif px <= 50:
-    print
+    print("Urm are you ")
