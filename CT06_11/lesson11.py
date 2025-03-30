@@ -14,7 +14,7 @@
 
 num = int(input("Can you gimme a number? "))
 
-if num%3 == 0:
+if num%3 == 0 and num:
     print("The number is divisible by 3 and 7")
 else:
     print("This number is not divisible by 3 and 7")
