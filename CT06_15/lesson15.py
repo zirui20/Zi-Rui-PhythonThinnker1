@@ -126,9 +126,10 @@
 
 # window.mainloop()
 
-def greet(name):
-    return "Hi " + name + "!"
+# def greet(name):
+#     return "Hi " + name + "!"
 
-name = input("What is your name? ")
-print(greet(name))
+# name = input("What is your name? ")
+# print(greet(name))
 
+    
