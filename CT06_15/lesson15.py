@@ -129,5 +129,5 @@
 def greet(name):
     return "Hi" + name + "!"
 
-name = imput("What is your name? ")
+name = import("What is your name? ")
 print(greet(name))
