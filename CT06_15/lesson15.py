@@ -149,7 +149,9 @@ def create_blue_ball():
     ball.shape("circle")
     ball.color("blue")
     ball.penup()
-    return ballball = create_blue_ball()
+    return ball
+
+ball = create_blue_ball()
 
 window.mainloop()
 
