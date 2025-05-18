@@ -157,7 +157,7 @@ def move_ball(ball, dx, dy):
     ball.sety(ball.ycor() + dy)
 
 dx = 2
-dy =
+dy = 2
 window.mainloop()
 
 
