@@ -158,7 +158,9 @@ def move_ball(ball, dx, dy):
 
 dx = 2
 dy = 2
-  
+
+while True:
+    
 window.mainloop()
 
 
