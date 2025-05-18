@@ -113,15 +113,18 @@
 #    "draw_square" function each time.
 
 
-import turtle
+# import turtle
 
-window = turtle.Screen()
+# window = turtle.Screen()
 
-window.setup(width = 500, height = 500)
-artist = turtle.Turtle()
-artist.shape("turtle")
-artist.color("blue")
-artist.penup()
-artist.goto(0,0)
+# window.setup(width = 500, height = 500)
+# artist = turtle.Turtle()
+# artist.shape("turtle")
+# artist.color("blue")
+# artist.penup()
+# artist.goto(0,0)
 
-window.mainloop()
+# window.mainloop()
+
+def greet(name):
+    print("")
