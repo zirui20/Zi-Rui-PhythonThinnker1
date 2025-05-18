@@ -134,4 +134,7 @@
 
 import turtle
 
-turtle.Screen
+def setup_screen():
+    screen = turtle.Screen()
+    screen.setup(width = 600, height= 400) 
+
