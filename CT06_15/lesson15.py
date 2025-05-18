@@ -133,3 +133,5 @@
 # print(greet(name))
 
 import turtle
+
+turtle.Screen
