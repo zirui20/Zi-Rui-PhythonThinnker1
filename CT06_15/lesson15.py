@@ -144,3 +144,5 @@ screenHeight = 500
 
 window = setup_screen(300,500)
 
+window.mainloop
+
