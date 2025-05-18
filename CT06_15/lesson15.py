@@ -152,7 +152,7 @@ def create_blue_ball():
     return ball
 
 ball = create_blue_ball()
-move_ball(ball, )
+move_ball(ball, dx, dy)
 
 window.mainloop()
 
