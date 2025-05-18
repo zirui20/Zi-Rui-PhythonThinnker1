@@ -163,7 +163,7 @@ def check_x(ball, screenWidth):
     if ball.xcor() > (screenWidth/2) or ball.xcor() < (-screenWidth/2):
         return True 
 
-def check_y(ball, screenWidth):
+def check_y(ball, screenHeight):
     if ball.xcor() > (screenWidth/2) or ball.xcor() < (-screenWidth/2):
         return True 
 
