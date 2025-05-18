@@ -153,7 +153,7 @@ def create_blue_ball():
 
 ball = create_blue_ball()
 def move_ball(ball, dx, dy):
-    ball.set
+    ball.setx(ball.xcor())
 
 window.mainloop()
 
