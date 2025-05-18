@@ -146,3 +146,6 @@ window = setup_screen(300,500)
 
 window.mainloop()
 
+def create_blue_BALL():
+    B
+
