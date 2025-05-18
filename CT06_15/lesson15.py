@@ -142,4 +142,4 @@ def setup_screen(screenWidth,screenHeight):
 screenWidth = 300
 screenHeight = 500
 
-window = s
+window = setup_screen()
