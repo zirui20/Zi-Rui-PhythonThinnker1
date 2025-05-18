@@ -147,7 +147,7 @@ window = setup_screen(300,500)
 def create_blue_ball():
     ball = turtle.Turtle()
     ball.shape("circle")
-    ball.color("cyan")
+    ball.color("teal")
     ball.penup()
     return ball
 
@@ -162,7 +162,7 @@ dy = 2
 while True:
     move_ball(ball, dx, dy)
 
-    
+
 window.mainloop()
 
 
