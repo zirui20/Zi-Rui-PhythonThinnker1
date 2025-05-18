@@ -130,4 +130,4 @@ def greet(name):
     return "Hi" + name + "!"
 
 name = imput("What is your name? ")
-print(greet)
+print(greet(name))
