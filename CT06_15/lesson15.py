@@ -172,6 +172,11 @@ while True:
     if check_x(ball, screenWidth):
         dx *= -1
 
+while True:
+    move_ball(ball, dx, dy)
+    if check_y(ball, screenWidth):
+        dy *= -1
+
 window.mainloop()
 
 
