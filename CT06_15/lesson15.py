@@ -127,4 +127,5 @@
 # window.mainloop()
 
 def greet(name):
-    return "Hi"
+    return "Hi" + name + "!"
+
